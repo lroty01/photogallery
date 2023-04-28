@@ -82,14 +82,17 @@
   }
 
   /* GALLERY */
-  
-  .photos {
+
+ @media screen and (min-width: 1200px){
+    .photos{
     display: grid;
-    align-items: center;
     grid-template-columns: 1fr 1fr 1fr;
-    width:1250px;
-    margin:0 auto;
-}
+    }
+  }
+  
+  /* .photos {
+    min-wdith: auto;
+} */
 /* .gallery__img {
     width: 10px;
     height: 10px;
