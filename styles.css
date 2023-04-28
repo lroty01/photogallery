@@ -83,6 +83,13 @@
     padding: 5px;
   }
 
+  /* Gallery */
+
+  .photos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
 
   /* CONTACT */
   #contact{
