@@ -87,7 +87,7 @@
     display: grid;
     grid-template-columns: 3 1fr;
     grid-template-rows: 4;
-    grid-gap: 5px;
+    grid-gap: 1px;
 }
  
   .photos__img {
