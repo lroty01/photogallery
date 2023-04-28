@@ -85,17 +85,14 @@
   
   .photos {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr;
-    row-gap: 0;
-    column-gap: 0;
+  grid-template-columns: 1fr 1fr 1fr;
 }
-.gallery__img {
+/* .gallery__img {
     width: 10px;
     height: 10px;
     object-fit: cover;
     display: block; 
-}
+} */
 
   /* figcaption {
     color:#ffffff;
