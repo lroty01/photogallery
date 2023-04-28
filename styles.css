@@ -88,12 +88,26 @@
     height: 100%;
     object-fit: cover;
 }
+.photos__Chile {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.photos__Guatemala {
+    grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.photos__Hawaii{
+    grid-column-start: 5;
+    grid-column-end: 9;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
 
-  /* .photos {
-    display: grid;
-    grid-template-columns: 100px 100px 100px;
-    grid-gap: 10px;
- } */
+
   
   /* figcaption {
     color:#ffffff;
