@@ -85,6 +85,7 @@
   
   .photos {
     display: grid;
+    align-items: center;
     grid-template-columns: 1fr 1fr 1fr;
     width:1250px;
     margin:0 auto;
