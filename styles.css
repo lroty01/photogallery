@@ -82,28 +82,12 @@
   }
 
   /* GALLERY */
-
-  .photos {
-    display: grid;
-    grid-template-columns: 3, 1fr;
-    grid-template-rows: 4;
+  
+  .gallery__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
-#Chile{
-    grid-column: 1/3;
-    grid-row: 1/4;
-    display: flex;
-}
-#Guatemala {
-    grid-column: 2/3;
-    grid-row: 1/4;
-    display: flex;
-}
-#Hawaii{
-    grid-column: 3/3;
-    grid-row: 1/4;
-    display: flex;
-}
-
 
   
   /* figcaption {
