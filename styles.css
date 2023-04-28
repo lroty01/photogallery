@@ -87,8 +87,8 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;
-    max-width:1250px;
-    margin:0 auto;
+    row-gap: 0;
+    column-gap: 0;
 }
 .gallery__img {
     width: 10px;
