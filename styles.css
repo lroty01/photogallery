@@ -9,6 +9,8 @@
     margin:0 auto;
     background-color:#ffffff;
   }
+
+  /* HEADERS and FOOTERS */
   p {font-size: 1.25em;}
   
   figcaption, label, input, small{font-size: 1em;}
@@ -41,6 +43,8 @@
     text-transform:uppercase;
     padding-top: 50px;
   }
+
+  /* NAV */
   nav{
     background-color:#000000;
     position: sticky;
@@ -76,6 +80,18 @@
     background-color: #007d7b;
     padding: 5px;
   }
+
+  /* GALLERY */
+  figcaption {
+    color:#ffffff;
+    line-height:2em;
+    text-align: center;
+    position:relative;
+    bottom:40px;
+    background-color: rgba(0,0,0,.5);
+  }
+
+  /* CONTACT */
   #contact{
     text-align: center;
   }
