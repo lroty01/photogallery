@@ -5,6 +5,10 @@
     background-color: #000000;
   }
 
+  main{
+    margin:0 auto;
+    background-color:#ffffff;
+  }
   /* HEADERS and FOOTERS */
   p {font-size: 1.25em;}
   
@@ -125,8 +129,6 @@
   @media screen and (max-width: 485px) {
     main{
         width:400px;
-        margin:0 auto;
-        background-color:#ffffff;
         padding: 6px;
       }
       header{
@@ -155,8 +157,6 @@
   @media screen and (max-width: 880) {
     main{
         width:800;
-        margin:0 auto;
-        background-color:#ffffff;
         padding: 6px;
       }
     nav ul{
@@ -191,8 +191,6 @@
       }
         main{
             width:1250px;
-            margin:0 auto;
-            background-color:#ffffff;
             padding: 6px;
           }
         nav ul{
