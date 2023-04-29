@@ -4,11 +4,13 @@
   html{
     background-color: #000000;
   }
-
   main{
+    width:1250px;
     margin:0 auto;
     background-color:#ffffff;
+    padding: 6px;
   }
+
   /* HEADERS and FOOTERS */
   p {font-size: 1.25em;}
   
@@ -62,10 +64,30 @@
     display: inline-block;
     padding:15px 20px;
   }
-  
+  nav ul{
+    display: flex;
+    justify-content: right;
+  }
+  [href="#top"] {
+    position:fixed;
+    bottom:0px;
+    right:0px;
+    border-radius:10px 0 0px 0px;
+    background-color: #ffffff;
+    padding: 25px;
+    color: #007d7b;
+    font-size: 20px;
+  }
   [href="#"]:hover{
     background-color: #007d7b;
     padding: 5px;
+  }
+
+  /* Gallery */
+
+  .photos{
+    display: block;
+    grid-template-columns: 1fr 1fr 1fr;
   }
 
   /* CONTACT */
@@ -109,6 +131,7 @@
     color: #007d7b;
   } 
   input[type=text], input[type=email]{
+    /* Full width */
   }
   
   input[type=text], input[type=email], input[name]{
@@ -126,79 +149,18 @@
     color:#ffffff;
     float: left;
   }
-  @media screen and (max-width: 485px) {
-    main{
-        width:400px;
-        padding: 6px;
-      }
-      header{
-        display: flex;
-        justify-content: center;
-      }
-    nav ul{
-        display: flex;
-        justify-content: center;
+  /* @media screen and (max-width: 485px) {
+    body {
+      
     }
-    .photos{
-        display: block;
-        grid-template-columns: 1fr;
-      }
-      [href="#top"] {
-        position:fixed;
-        bottom:0px;
-        right:0px;
-        border-radius:10px 0 0px 0px;
-        background-color: #ffffff;
-        padding: 6px;
-        color: #007d7b;
-        font-size: 26px;
-      }
   }
   @media screen and (max-width: 880) {
-    main{
-        width:800;
-        padding: 6px;
-      }
-    nav ul{
-        display: flex;
-        justify-content: right;
+    body {
+      
     }
-    .photos{
-        display: block;
-        grid-template-columns: 1fr 1fr;
-      }
-      [href="#top"] {
-        position:fixed;
-        bottom:0px;
-        right:0px;
-        border-radius:10px 0 0px 0px;
-        background-color: #ffffff;
-        padding: 15px;
-        color: #007d7b;
-        font-size: 10px;
-      }
   }
   @media screen and (max-width: 1300px) {
-    [href="#top"] {
-        position:fixed;
-        bottom:0px;
-        right:0px;
-        border-radius:10px 0 0px 0px;
-        background-color: #ffffff;
-        padding: 25px;
-        color: #007d7b;
-        font-size: 20px;
-      }
-        main{
-            width:1250px;
-            padding: 6px;
-          }
-        nav ul{
-            display: flex;
-            justify-content: right;
-        }
-        .photos{
-            display: block;
-            grid-template-columns: 1fr 1fr 1fr;
-          }
-  }
+    body {
+      
+    }
+  } */
