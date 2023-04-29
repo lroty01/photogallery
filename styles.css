@@ -8,7 +8,10 @@ main{
   background-color:#ffffff;
   padding: 6px;
   width: 1280px;
-  align-items: center;
+}
+body{
+  display: block;
+  justify-content: center;
 }
 
 p {font-size: 1.25em;}
