@@ -5,13 +5,11 @@
     background-color: #000000;
   }
   main{
-    width:1250px;
-    margin:0 auto;
     background-color:#ffffff;
     padding: 6px;
   }
 
-  /* HEADERS and FOOTERS */
+
   p {font-size: 1.25em;}
   
   figcaption, label, input, small{font-size: 1em;}
@@ -149,18 +147,3 @@
     color:#ffffff;
     float: left;
   }
-  /* @media screen and (max-width: 485px) {
-    body {
-      
-    }
-  }
-  @media screen and (max-width: 880) {
-    body {
-      
-    }
-  }
-  @media screen and (max-width: 1300px) {
-    body {
-      
-    }
-  } */
