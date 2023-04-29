@@ -86,7 +86,7 @@
   /* Gallery */
 
   .photos{
-    display: grid;
+    display: block;
     grid-template-columns: 1fr 1fr 1fr;
   }
 
