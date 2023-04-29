@@ -83,14 +83,6 @@
     padding: 5px;
   }
 
-  /* Gallery */
-
-  .photos{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-  }
-
-
   /* CONTACT */
   #contact{
     text-align: center;
@@ -149,4 +141,16 @@
     text-transform: uppercase;
     color:#ffffff;
     float: left;
+  }
+
+/* Gallery */
+@media screen and (min-width: 550px){
+    nav ul{
+        display: flex;
+        justify-content: center;
+    }
+    .photos{
+        display: block;
+        grid-template-columns: 1fr;
+    }
   }
