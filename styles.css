@@ -89,7 +89,7 @@
     display: block;
     grid-template-columns: 1fr 1fr 1fr;
   }
-  
+
   figcaption {
     color:#ffffff;
     line-height:2em;
@@ -98,6 +98,11 @@
     bottom:40px;
     background-color: rgba(0,0,0,.5);
   }
+
+  figure, img {
+    border-style: none;
+    margin: 0;
+    vertical-align: middle;}
 
   /* CONTACT */
   #contact{
