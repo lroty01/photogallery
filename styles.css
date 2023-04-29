@@ -8,7 +8,7 @@
     width:1250px;
     margin:0 auto;
     background-color:#ffffff;
-    padding: 0px;
+    padding: 6px;
   }
 
   /* HEADERS and FOOTERS */
@@ -89,12 +89,19 @@
     display: block;
     grid-template-columns: 1fr 1fr 1fr;
   }
-
+  
+  figcaption {
+    color:#ffffff;
+    line-height:2em;
+    text-align: center;
+    position:relative;
+    bottom:40px;
+    background-color: rgba(0,0,0,.5);
+  }
 
   /* CONTACT */
   #contact{
     text-align: center;
-    padding-bottom: 4px;
   }
   #contact h2, #contact h3, #contact p{
     color: white;
