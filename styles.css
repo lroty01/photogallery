@@ -4,11 +4,11 @@
 html{
   background-color: #000000;
 }
-#wrapper{
-  width:1250px;
-  margin:0 auto;
+main{
   background-color:#ffffff;
+  padding: 6px;
 }
+
 p {font-size: 1.25em;}
 
 figcaption, label, input, small{font-size: 1em;}
