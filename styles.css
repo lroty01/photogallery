@@ -75,6 +75,10 @@ nav ul{
   background-color: #007d7b;
   padding: 5px;
 }
+[href="#contact"]:hover{
+  background-color: #007d7b;
+  padding: 5px;
+}
 
 /* Gallery */
 
