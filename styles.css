@@ -149,6 +149,10 @@
         display: flex;
         justify-content: center;
     }
+    main{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+      }
     .photos{
         display: block;
         grid-template-columns: 1fr;
