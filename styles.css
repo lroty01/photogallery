@@ -9,11 +9,6 @@ main{
   padding: 6px;
   width: 1280px;
 }
-body{
-  display: block;
-  justify-content: center;
-}
-
 p {font-size: 1.25em;}
 
 figcaption, label, input, small{font-size: 1em;}
