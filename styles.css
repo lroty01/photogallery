@@ -43,6 +43,7 @@ footer{
 }
 nav{
   background-color:#000000;
+  width: 1250px;
   position: sticky;
   text-decoration: none;
   font-weight: bold;
@@ -67,15 +68,22 @@ nav ul{
   bottom:0px;
   right:0px;
   border-radius:10px 0 0px 0px;
-  background-color: #ffffff;
+  background-color: #007d7b;
   padding: 25px;
-  color: #007d7b;
+  color: #ffffff;
   font-size: 20px;
 }
 [href="#"]:hover{
   background-color: #007d7b;
   padding: 5px;
 }
+
+/* Gallery */
+
+/* .photos{
+  display: block;
+  grid-template-columns: 1fr 1fr 1fr;
+} */
 #contact{
   text-align: center;
 }
