@@ -64,7 +64,10 @@
     display: inline-block;
     padding:15px 20px;
   }
-
+  nav ul{
+    display: flex;
+    justify-content: right;
+  }
   [href="#top"] {
     position:fixed;
     bottom:0px;
@@ -79,6 +82,14 @@
     background-color: #007d7b;
     padding: 5px;
   }
+
+  /* Gallery */
+
+  .photos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
 
   /* CONTACT */
   #contact{
@@ -138,37 +149,4 @@
     text-transform: uppercase;
     color:#ffffff;
     float: left;
-  }
-
-/* GALLERY */
-
-/* small */
-@media screen and (min-width: 550px){
-    nav ul{
-        display: flex;
-        justify-content: center;
-    }
-    main{
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-      }
-    .photos{
-        display: block;
-        grid-template-columns: 1fr;
-    }
-  }
-
-  /* large */
-  @media screen and (min-width: 1100px){
-   
-    nav ul{
-        display: flex;
-        justify-content: right;
-      }
-
-   .photos{
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
-    }
-    
   }
