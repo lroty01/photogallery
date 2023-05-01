@@ -93,6 +93,10 @@ nav a:hover{
   color: #ffffff;
 }
 
+#intro, #photos{
+  padding: 0px, 4px, 4px, 4px;
+}
+
 /* insert static photo gallery styles here */
 
 /* .photos{
