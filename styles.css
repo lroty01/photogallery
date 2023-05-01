@@ -64,6 +64,7 @@ nav{
   text-decoration: none;
   font-weight: bold;
   text-transform:uppercase;
+  width: 100%;
   position: sticky;
   top: 0px;
   padding: 0px;
