@@ -146,6 +146,10 @@ input[type=text], input[type=email], input[name]{
   resize: vertical;
 }
 
+input[type=text]:hover, input[type=email]:hover, input[name]:hover{
+  background-color: #ccc;
+}
+
 form label{
   text-transform: uppercase;
   color:#ffffff;
