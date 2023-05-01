@@ -55,8 +55,6 @@ nav a{
   color: #ffffff;
   font-weight: bold;
   font-size: 1.5em;
-  background-color: #007d7b;
-  padding: 25px;
 }
 nav li{
   display: inline-block;
@@ -69,6 +67,7 @@ nav ul{
 
 nav a:hover{
   background-color: #007d7b;
+  padding: 18px;
 }
 
 [href="#top"] {
