@@ -90,6 +90,9 @@ nav a:hover{
   color: #ffffff;
 }
 [href="#top"]:hover{
+  position:fixed;
+  bottom:0px;
+  right: 0px;
   background-color: #ffffff;
   color: #000000;
   
