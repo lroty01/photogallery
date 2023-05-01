@@ -133,8 +133,8 @@ input[type=text], input[type=email]{
   /* Full width */
 }
 
-form{
-  width: 800px;
+input[type=text], input[type=email], input[name]{
+  width: 60%;
   text-transform: uppercase;
   padding: 12px;
   border: 1px solide #ccc;
@@ -143,8 +143,6 @@ form{
   margin-bottom: 16px;
   resize: vertical;
 }
-
-
 
 form label{
   text-transform: uppercase;
