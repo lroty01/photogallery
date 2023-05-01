@@ -50,7 +50,7 @@ h1{
   color: #007d7b;
   background-color: #ffffff;
   font-size:3em;
-  padding-bottom: 0px;
+  padding: 4px;
   top: 0px;
 }
 h1, #About, #Gallery, #photos{
