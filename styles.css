@@ -69,6 +69,7 @@ nav ul{
 
 nav a:hover{
   background-color: #007d7b;
+  border-radius:10px;
 }
 
 [href="#top"] {
