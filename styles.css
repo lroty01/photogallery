@@ -194,6 +194,9 @@ footer{
 /* Media Querie Changes here */
 
 @media screen and (min-width: 485px){
+  nav a{
+    font-size: 0.5em;
+  }  
   nav ul{
     display: flex;
     justify-content: center;
