@@ -45,7 +45,8 @@ h1, #About, #Gallery, #photos{
 
 nav{
   background-color:#000000;
-  position: sticky;
+  position: -webkit-sticky;
+	position: sticky;
   text-decoration: none;
   font-weight: bold;
   text-transform:uppercase;
@@ -72,9 +73,10 @@ nav a:hover{
 
 [href="#top"] {
   position:fixed;
-  bottom:2px;
-  right:2px;
+  bottom:0px;
+  right:0px;
   border-radius:10px 0 0px 0px;
+  padding: 12px;
 }
 
 /* insert static photo gallery styles here */
