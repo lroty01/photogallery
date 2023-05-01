@@ -4,6 +4,14 @@
 html{
   background-color: #000000;
 } 
+#intro{
+  background-color:#ffffff;
+  margin: 0 auto;
+  width: 80%;
+  padding: 0px;
+  position: sticky;
+  padding-top: 0px;
+}
 #wrapper{
   background-color:#ffffff;
   margin: 0 auto;
@@ -61,10 +69,6 @@ nav{
   padding-bottom: 0px;
 }
 
-h1, nav{
-  position: sticky;
-  padding-top: 0px;
-}
 nav a{
   text-decoration: none;
   color: #ffffff;
