@@ -195,9 +195,17 @@ footer{
 
 /* Media Querie Changes here */
 
-/* @media screen and (min-width: 485px){} */
+@media screen and (min-width: 485px){
+  nav ul{
+    display: flex;
+    justify-content: center;
+  }
+  .photos{
+    display: block;
+  }
+}
 
-@media screen and (min-width: 1300px){
+/* @media screen and (min-width: 1300px){
   nav ul{
     display: flex;
     justify-content: right;
@@ -216,4 +224,4 @@ footer{
   #Hawaii, #Italy, #Switzerland, #Wyoming{
     grid-column: 3/3;
   }
-}
+} */
