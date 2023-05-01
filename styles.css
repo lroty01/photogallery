@@ -86,11 +86,13 @@ nav a:hover{
   position:fixed;
   bottom:0px;
   right: 0px;
-  background-color: #ffffff;
-  color: #007d7b;
+  background-color: #007d7b;
+  color: #ffffff;
 }
 [href="#top"]:hover{
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #000000;
+  
 }
 
 /* PHOTO GALLERY */
