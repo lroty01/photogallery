@@ -58,7 +58,7 @@ nav{
   font-weight: bold;
   text-transform:uppercase;
   width: 80%;
-  position: fixed;
+  position: sticky;
   padding-top: 0px'
   padding-bottom: 0px;
 }
