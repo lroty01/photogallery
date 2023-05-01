@@ -14,14 +14,14 @@ html{
   width: 80%;
 }
 
-#header{
+#headerdiv{
   background-color:#ffffff;
   margin: 0 auto;
   padding:0px;
   width: 80%;
 }
 
-#nav{
+#navdiv{
   background-color:#000000;
   margin: 0 auto;
   padding:0px;
