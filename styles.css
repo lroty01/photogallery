@@ -194,3 +194,24 @@ footer{
 }
 
 /* Media Querie Changes here */
+
+@media screen and (min-width: 485px){
+  nav ul{
+    display: flex;
+    justify-content: center;
+  }
+  #photos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+  }
+  #Chile, #Iran, #MoabDesert, #UK{
+    grid-column: 1/3;
+  }
+  #Guatemala, #Ireland, #RockyMountains, #USA{
+    grid-column: 2/3;
+  }
+  #Hawaii, #Italy, #Switzerland, #Wyoming{
+    grid-column: 3/3;
+  }
+}
