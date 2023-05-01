@@ -1,6 +1,5 @@
 *{
   font-family: Arial, Helvetica, sans-serif;
-  box-sizing: border-box;
 }
 html{
   background-color: #000000;
@@ -17,6 +16,13 @@ html{
 
 #header{
   background-color:#ffffff;
+  margin: 0 auto;
+  padding:0px;
+  width: 80%;
+}
+
+#nav{
+  background-color:#000000;
   margin: 0 auto;
   padding:0px;
   width: 80%;
