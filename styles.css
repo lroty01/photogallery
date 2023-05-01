@@ -79,7 +79,7 @@ nav li{
 
 nav a:hover{
   background-color: #007d7b;
-  border-radius:10px;
+  border-radius:10px 0 0px 0px;
 }
 
 [href="#top"] {
@@ -95,7 +95,7 @@ nav a:hover{
   right: 0px;
   background-color: #ffffff;
   color: #000000;
-  
+  border-radius:10px 0 0px 0px;
 }
 
 /* PHOTO GALLERY */
