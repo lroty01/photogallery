@@ -102,11 +102,17 @@ nav a:hover{
 
 /* PHOTO GALLERY */
 
+#photos{
+
+}
+
 img{
   width: 100%;
 }
 figure{
   min-width: 300px;
+  display: flex;
+  justify-content: center;
 }
 
 /* insert static y styles here */
