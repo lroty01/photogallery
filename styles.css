@@ -200,9 +200,9 @@ footer{
 @media screen and (min-width: 1300px){
   nav ul{
     display: flex;
-    justify-content: center;
+    justify-content: right;
   }
-  #photos{
+  .photos{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: auto;
