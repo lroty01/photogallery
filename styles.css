@@ -8,7 +8,10 @@ html{
 #wrapper{
   background-color:#ffffff;
   margin: 0 auto;
-  padding: 6px;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 6px;
+  padding-top: 2px;
   width: 80%;
 }
 
@@ -35,6 +38,7 @@ h1{
   background-color: #ffffff;
   font-size:3em;
   padding-bottom: 0px;
+  top: 0px;
 }
 h1, #About, #Gallery, #photos{
   padding-left: 5px;
@@ -51,6 +55,7 @@ nav{
   width: 100%;
   position: sticky;
   top: 0px;
+  padding: 2px;
 }
 nav a{
   text-decoration: none;
