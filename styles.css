@@ -96,7 +96,9 @@ nav a:hover{
   bottom:0px;
   right: 0px;
   border-radius:10px 0 0;
-  padding: 12px;
+  padding-top: 12px;
+  padding-left: 12px;
+  padding right: 50px;
   background-color: #ffffff;
   color: #000000;
 }
