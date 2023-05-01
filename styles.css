@@ -38,6 +38,7 @@ header{
 h1{
   color: #007d7b;
   padding-top: 5px;
+  margin-bottom: 0;
 }
 
 h1, #About, #Gallery, #photos{
