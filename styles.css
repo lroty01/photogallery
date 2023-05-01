@@ -62,7 +62,7 @@ nav{
 }
 
 h1, nav{
-  position: sticky;
+  position: fixed;
   padding-top: 0px;
 }
 
