@@ -23,6 +23,7 @@ html{
 
 #navdiv{
   background-color:#000000;
+  margin: 0 auto;
   padding:0px;
   width: 80%;
 }
@@ -64,7 +65,6 @@ nav{
   text-decoration: none;
   font-weight: bold;
   text-transform:uppercase;
-  width: 100%;
   position: sticky;
   top: 0px;
   padding: 0px;
