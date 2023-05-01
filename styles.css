@@ -65,6 +65,11 @@ nav ul{
   justify-content: right;
 }
 
+nav a:hover{
+  background-color: #007d7b;
+  padding: 5px;
+}
+
 [href="#top"] {
   position:fixed;
   bottom:0px;
@@ -74,10 +79,6 @@ nav ul{
   padding: 25px;
   color: #ffffff;
   font-size: 20px;
-}
-[href="#"]:hover, [href="#contact"]:hover{
-  background-color: #007d7b;
-  padding: 5px;
 }
 
 /* insert static photo gallery styles here */
