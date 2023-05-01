@@ -134,7 +134,7 @@ input[type=text], input[type=email]{
 }
 
 form{
-  width: 60%;
+  width: 800px;
   text-transform: uppercase;
   padding: 12px;
   border: 1px solide #ccc;
@@ -143,6 +143,8 @@ form{
   margin-bottom: 16px;
   resize: vertical;
 }
+
+
 
 form label{
   text-transform: uppercase;
