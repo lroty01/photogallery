@@ -58,10 +58,14 @@ nav{
   font-weight: bold;
   text-transform:uppercase;
   width: 100%;
-  position: sticky;
-  padding-top: 0px;
   padding-bottom: 0px;
 }
+
+h1, nav{
+  position: sticky;
+  padding-top: 0px;
+}
+
 nav a{
   text-decoration: none;
   color: #ffffff;
