@@ -100,16 +100,22 @@ nav a:hover{
   color: #ffffff;
 }
 
+/* PHOTO GALLERY */
 
+img{
+  width: 100%;
+}
 
-/* insert static photo gallery styles here */
+/* insert static y styles here */
 
 /* .photos{
   display: block;
   grid-template-columns: 1fr 1fr 1fr;
 } */
 
-/* CONTACT */
+
+/* CONTACT SECTION*/
+
 #contact{
   text-align: center;
 }
@@ -119,6 +125,8 @@ nav a:hover{
 #contact p{
   font-size: 1rem;
 }
+
+/* contact form */
 .container {
   display: flex;
   justify-content: center;
@@ -170,7 +178,7 @@ form label{
   float: left;
 }
 
-/* FORM */
+/* FOOTER */
 
 footer{
   padding: 20px;
