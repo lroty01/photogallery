@@ -13,7 +13,7 @@ html{
 #content{
   margin: 0 auto;
   width: 98%;
-  padding: 0px;
+  padding-bottom: 4px;
 }
 
 main{
