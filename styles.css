@@ -64,10 +64,6 @@ nav a{
   font-size: 1.5em;
   padding: 10px;
 }
-[href=#contact]{
-padding-left: 2px;
-}
-
 nav li{
   display: inline-block;
   padding:15px 20px;
