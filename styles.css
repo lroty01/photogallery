@@ -55,6 +55,8 @@ nav a{
   color: #ffffff;
   font-weight: bold;
   font-size: 1.5em;
+  background-color: #007d7b;
+  padding: 25px;
 }
 nav li{
   display: inline-block;
@@ -74,10 +76,6 @@ nav a:hover{
   bottom:0px;
   right:0px;
   border-radius:10px 0 0px 0px;
-  background-color: #007d7b;
-  padding: 25px;
-  color: #ffffff;
-  font-size: 20px;
 }
 
 /* insert static photo gallery styles here */
