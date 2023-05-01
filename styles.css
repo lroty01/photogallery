@@ -45,8 +45,7 @@ h1, #About, #Gallery, #photos{
 
 nav{
   background-color:#000000;
-  position: -webkit-sticky;
-	position: sticky;
+  position: fixed;
   text-decoration: none;
   font-weight: bold;
   text-transform:uppercase;
