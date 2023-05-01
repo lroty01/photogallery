@@ -80,6 +80,9 @@ nav a:hover{
   background-color: #ffffff;
   color: #000000;
 }
+[href="#top"]:hover{
+  color: #ffffff;
+}
 
 /* insert static photo gallery styles here */
 
