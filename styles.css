@@ -72,8 +72,8 @@ nav a:hover{
 
 [href="#top"] {
   position:fixed;
-  bottom:0px;
-  right:0px;
+  padding-bottom:6px;
+  padding-right:6px;
   border-radius:10px 0 0px 0px;
 }
 
