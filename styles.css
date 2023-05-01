@@ -105,6 +105,9 @@ nav a:hover{
 img{
   width: 100%;
 }
+figure{
+  min-width: 150px;
+}
 
 /* insert static y styles here */
 
@@ -153,9 +156,6 @@ input[type=submit]:hover {
   background-color: #ffffff;
   color: #007d7b;
 } 
-input[type=text], input[type=email]{
-  /* Full width */
-}
 
 input[type=text], input[type=email], input[name]{
   width: 800px;
