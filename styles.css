@@ -15,6 +15,13 @@ html{
   width: 80%;
 }
 
+#header{
+  background-color:#ffffff;
+  margin: 0 auto;
+  padding:0px;
+  width: 80%;
+}
+
 main{
   min-width:320px;
 }
