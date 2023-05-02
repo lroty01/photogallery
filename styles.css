@@ -189,6 +189,9 @@ figcaption{
 #Chile figcaption, #Hawaii figcaption, #MoabDesert figcaption{
   color: #ffffff;
   text-align: center;
+  bottom: 30px;
+  margin-bottom: -20%;
+  position: relative;
 }
 
 #Italy figcaption{
