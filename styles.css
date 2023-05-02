@@ -279,13 +279,6 @@ img{
     padding: 10px;
     font-size: 2em;
   } 
-  figure{
-    min-width: 300px;
-    width: 350px;
-    padding: 0px;
-    margin: 0px;
-  }
-
   input[type=submit] {
     width: 35%;
     border-radius: 35px;
