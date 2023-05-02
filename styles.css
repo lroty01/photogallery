@@ -199,6 +199,13 @@ figcaption{
   text-align: center;
 }
 
+#Guatemala figcaption, #Wyoming figcaption{
+  position: relative;
+  top: 30px;
+  color: #ffffff;
+  text-align: center;
+}
+
 /* Media Querie Changes here */
 
 /* SMALL */
