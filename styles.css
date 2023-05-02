@@ -189,6 +189,7 @@ figcaption{
   position: relative;
   bottom: 40px;
   color: white;
+  text-align: center;
 }
 
 /* Media Querie Changes here */
