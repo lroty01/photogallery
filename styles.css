@@ -243,7 +243,7 @@ img{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;
-    grid-gap: 6px;
+    grid-gap: 4px;
     padding: 0px;
     margin: 0;
   }
@@ -254,7 +254,11 @@ img{
     font-size: 2em;
   }
 }
-
+@media screen and (min-width: 1310px){
+  main{
+    max-width: 1310px;
+  } 
+}
   /* input[type=submit] {
   background-color: #007d7b;
   width: 50%;
@@ -276,9 +280,4 @@ img{
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
-}
-}
-@media screen and (min-width: 1310px){
-  main{
-    max-width: 1310px;
-  } */
+}*/
