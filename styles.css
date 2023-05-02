@@ -182,13 +182,7 @@ footer{
   }
   .photos{
     display: block;
-    padding: 0px;
-    margin: 0 auto;
-    width: 80%;
-    min-width: 400px;
-    margin: 0 0 50px 0;
-    padding-right: 30px;
-    padding-left: 0px;
+    grid-template-columns: 1fr;
   }
   [href="#top"]{
     border-radius:5px 0 0;
