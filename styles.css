@@ -169,6 +169,9 @@ footer{
   text-transform:uppercase;
   padding-top: 50px;
 }
+figures{
+  align-items: center;
+}
 
 /* Media Querie Changes here */
 
