@@ -213,7 +213,7 @@ img{
     grid-template-rows: 1fr 2fr 2fr 1fr 1fr 1fr;
     grid-gap: 6px;
     padding: 0px;
-    margin: 0 0 50px 0;
+    margin: 0;;
     min-width: 800;
   }
   [href="#top"]{
@@ -226,9 +226,6 @@ img{
     width: 350px;
     padding: 0px;
     margin: 0px;
-  }
-  #wrapper{
-    padding-bottom: 1px;
   }
 }
 
