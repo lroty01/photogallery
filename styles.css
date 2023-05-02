@@ -227,6 +227,9 @@ img{
     padding: 0px;
     margin: 0px;
   }
+  #content{
+    padding-bottom: 1px;
+  }
 }
 
 /* @media screen and (min-width: 1300px){
