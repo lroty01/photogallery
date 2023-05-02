@@ -38,7 +38,7 @@ h1, h2, h3, nav, figcaption{
 header{
   background-color: #ffffff;
   padding: 0px;
-  margin-bottom: 0;
+  margin-bottom: -14px;
 }
 
 h1{
@@ -55,6 +55,7 @@ nav{
   font-weight: bold;
   text-transform:uppercase;
   padding: 0px;
+  margin-bottom: -20px;
 }
 
 nav a{
