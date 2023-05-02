@@ -186,7 +186,7 @@ figcaption{
 }
 
 /* Figcaptions */
-#Chile figcaption, #Hawaii figcaption, #MoabDesert figcaption{
+/* #Chile figcaption, #Hawaii figcaption, #MoabDesert figcaption{
   position: absolute;
   color: #ffffff;
   text-align: center;
@@ -214,7 +214,7 @@ figcaption{
   position: absolute;
   color: #000000;
   text-align: center;
-}
+} */
 
 
 /* Media Querie Changes here */
