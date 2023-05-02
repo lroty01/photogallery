@@ -141,7 +141,7 @@ input[type=submit]:hover {
 
 input[type=text], input[type=email], input[name]{
   text-transform: uppercase;
-  border: 1px solide #ccc;
+  border: 1px solid #D3D3D3;
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
