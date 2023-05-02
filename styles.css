@@ -61,7 +61,7 @@ nav a{
   text-decoration: none;
   color: #ffffff;
   font-weight: bold;
-  font-size: 1.5em;
+  font-size: 1em;
   padding: 10px;
 }
 nav li{
@@ -171,6 +171,7 @@ img{
 
 /* Media Querie Changes here */
 
+/* SMALL */
 @media screen and (min-width: 485px){
   h1{
     text-align: center;
@@ -211,8 +212,6 @@ img{
     border-radius: 15px;
     padding: 6px;
     }
-
-   
   
   input[type=submit] {
     background-color: #007d7b;
@@ -234,6 +233,7 @@ img{
   }
 }
 
+/* MEDIUM */
 @media screen and (min-width: 880px){
   h1{
     text-align: left;
@@ -289,6 +289,7 @@ img{
     }
 }
 
+/* LARGE */
 @media screen and (min-width: 1300px){
   main{
     min-width:1250px;
