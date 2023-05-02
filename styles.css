@@ -204,7 +204,6 @@ img{
   }
   .photos{
     display: block;
-    grid-auto-flow: column;
     grid-template-columns: 1fr;
     padding: 0;
     margin: 0;
@@ -269,8 +268,7 @@ img{
   }
   .photos{
     display: grid;
-    grid-auto-flow: column;
-    grid-template-columns: autofit, 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 2fr 2fr 1fr 1fr 1fr;
     column-gap: 8px;
     padding: 0px;
@@ -313,7 +311,6 @@ img{
   }
   .photos{
     display: grid;
-    grid-auto-flow: column;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     grid-gap: 4px;
