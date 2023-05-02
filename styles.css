@@ -213,6 +213,7 @@ footer{
     width: 80%;
     padding: 0px;
   }
+
   [href="#top"]{
     border-radius:8px 0 0;
     padding: 10px;
@@ -220,7 +221,7 @@ footer{
   } 
   figure{
     min-width: 300px;
-    width: 350px;
+    width: 200px;
   }
 }
 
