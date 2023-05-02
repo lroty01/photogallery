@@ -222,7 +222,6 @@ img{
     grid-gap: 6px;
     padding: 0px;
     margin: 0;
-    max-width: 720px;
   }
   [href="#top"]{
     border-radius:8px 0 0;
@@ -252,7 +251,6 @@ img{
     grid-gap: 4px;
     padding: 0px;
     margin: 0;
-    max-width: 1240px;
   }
  
   [href="#top"]{
