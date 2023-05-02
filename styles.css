@@ -183,6 +183,8 @@ figure{
 
 figcaption{
   text-transform: uppercase;
+  padding-bottom: 5px;
+  text-align: center;
 }
 
 /* Figcaptions */
@@ -252,7 +254,7 @@ figcaption{
   .photos{
     display: block;
     grid-template-columns: 1fr;
-    row-gap: 6px;;
+    grid-gap: 8px;;
     padding: 0;
     margin: 0;
   }
