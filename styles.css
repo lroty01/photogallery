@@ -6,9 +6,7 @@ html{
 } 
 #wrapper{
   background-color:#ffffff;
-  margin: 0 auto;
   width: 80%;
-  padding: 0px;
 }
 
 #content{
@@ -175,8 +173,9 @@ img{
 /* Media Querie Changes here */
 
 @media screen and (min-width: 485px){
-  main{
-    min-width:430px;
+  #wrapper{
+    padding: 0px;
+    width: 80%;
   }
   nav a{
     font-size: 1.5em;
@@ -205,8 +204,9 @@ img{
 }
 
 @media screen and (min-width: 880px){
-  main{
-    min-width:730px;
+  #wrapper{
+    padding: 6px;
+    margin: 10px;
   }
   nav a{
     font-size: 1.5em;
