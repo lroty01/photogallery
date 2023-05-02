@@ -182,7 +182,12 @@ figure{
 }
 
 figcaption{
+  text-transform: uppercase;
+}
 
+#Chile figcaption{
+  position: relative;
+  color: white;
 }
 
 /* Media Querie Changes here */
