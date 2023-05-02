@@ -214,7 +214,6 @@ footer{
     padding-top: 0px;
     padding-bottom: 0px;;
     margin: 0;
-    column-gap: 5px;
   }
   [href="#top"]{
     border-radius:8px 0 0;
@@ -224,6 +223,7 @@ footer{
   figure{
     min-width: 300px;
     width: 500px;
+    column-gap: 5px;
   }
 }
 
