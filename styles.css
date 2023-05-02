@@ -189,13 +189,14 @@ figcaption{
 #Chile figcaption, #Hawaii figcaption, #MoabDesert figcaption{
   color: #ffffff;
   text-align: center;
-  bottom: 30px;
+  margin-bottom: -20%;
 }
 
 #Italy figcaption{
   color: #000000;
   text-align: center;
   bottom: 30px;
+  margin-bottom: -20%;
 }
 
 #Guatemala figcaption, #Wyoming figcaption{
