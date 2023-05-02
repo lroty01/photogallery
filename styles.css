@@ -209,8 +209,8 @@ footer{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 2fr 2fr 1fr 1fr 1fr;
-    padding-left: 20px;
-    padding-right: 0px;
+    padding-right: 100px;
+    padding-left: 0px;
     padding-top: 0px;
     padding-bottom: 0px;;
     margin: 0 auto;
