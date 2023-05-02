@@ -206,6 +206,14 @@ figcaption{
   text-align: center;
 }
 
+#Iran figcaption, #Ireland figcaption{
+  position: relative;
+  bottom: 480px;
+  color: #000000;
+  text-align: center;
+}
+
+
 /* Media Querie Changes here */
 
 /* SMALL */
