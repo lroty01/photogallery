@@ -183,7 +183,7 @@ figure{
 
 figcaption{
   text-transform: uppercase;
-  bottom: 30px;
+  position: relative;
   text-align: center;
 }
 
