@@ -291,6 +291,11 @@ img{
       margin-top: 4px;
       margin-bottom: 8px;
     }
+
+    figure{
+      margin: 0px;
+      padding: 0px;
+    }
 }
 
 /* LARGE */
