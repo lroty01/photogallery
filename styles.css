@@ -184,6 +184,7 @@ img{
   nav a{
     font-size: 1.5em;
     padding: 0px;
+    margin: 0px;
   }  
   nav ul{
     display: flex;
