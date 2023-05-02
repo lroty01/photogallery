@@ -209,11 +209,9 @@ footer{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 2fr 2fr 1fr 1fr 1fr;
-    padding-right: 150px;
-    padding-left: 0px;
-    padding-top: 0px;
-    padding-bottom: 0px;;
-    margin: 0;
+    margin: 0 auto;
+    width: 80%;
+    padding: 0px;
   }
   [href="#top"]{
     border-radius:8px 0 0;
