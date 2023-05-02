@@ -222,8 +222,7 @@ footer{
   } 
   figure{
     min-width: 300px;
-    width: 500px;
-    column-gap: 5px;
+    width: 300px;
   }
 }
 
