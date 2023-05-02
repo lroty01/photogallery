@@ -190,7 +190,6 @@ img{
     grid-template-columns: 1fr;
     padding: 0;
     margin: 0;
-    max-width: 420px;;
   }
   [href="#top"]{
     border-radius:5px 0 0;
@@ -223,7 +222,7 @@ img{
     grid-gap: 6px;
     padding: 0px;
     margin: 0;
-    max-width: 720px;;
+    max-width: 720px;
   }
   [href="#top"]{
     border-radius:8px 0 0;
@@ -253,7 +252,7 @@ img{
     grid-gap: 4px;
     padding: 0px;
     margin: 0;
-    max-width: 1240px;;
+    max-width: 1240px;
   }
  
   [href="#top"]{
