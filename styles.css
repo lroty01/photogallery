@@ -183,6 +183,9 @@ footer{
   .photos{
     display: block;
     grid-template-columns: 1fr;
+    padding: 0px;
+    margin: 0 auto;
+    min-width: 400px;
   }
   [href="#top"]{
     border-radius:5px 0 0;
