@@ -179,6 +179,9 @@ img{
     text-align: center;
     font-size: 2em;
   }
+  h2{
+    font-size: 1.5em;
+  }
   #wrapper{
     padding: 0px;
     width: 80%;
