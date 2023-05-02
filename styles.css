@@ -185,6 +185,7 @@ figcaption{
   text-transform: uppercase;
 }
 
+/* Figcaptions */
 #Chile figcaption, #Hawaii figcaption, #MoabDesert figcaption{
   position: relative;
   bottom: 30px;
@@ -203,6 +204,13 @@ figcaption{
   position: relative;
   bottom: 280px;
   color: #ffffff;
+  text-align: center;
+}
+
+#RockyMountains figcaption, #Switzerland figcaption, #UK figcaption, #USA figcaption{
+  position: relative;
+  bottom: 280px;
+  color: #000000;
   text-align: center;
 }
 
