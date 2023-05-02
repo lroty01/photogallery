@@ -248,10 +248,8 @@ img{
     text-align: left;
   }
   #wrapper{
-    padding: 6px;
+    padding: 0px;
     margin: 10px auto;
-    padding-left: 8px;
-    padding-right: 36px;
   }
   nav{
     padding:0px;
