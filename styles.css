@@ -17,10 +17,6 @@ html{
   padding-bottom: 4px;
 }
 
-main{
-  min-width:320px;
-}
-
 /* TEXT & FONTS */
 p {font-size: 1.25em;}
 
@@ -179,6 +175,9 @@ img{
 /* Media Querie Changes here */
 
 @media screen and (min-width: 485px){
+  main{
+    min-width:430px;
+  }
   nav a{
     font-size: 1em;
   }  
@@ -206,6 +205,9 @@ img{
 }
 
 @media screen and (min-width: 880px){
+  main{
+    min-width:730px;
+  }
   nav a{
     font-size: 1.5em;
   }  
@@ -235,6 +237,9 @@ img{
 }
 
 @media screen and (min-width: 1300px){
+  main{
+    min-width:1250px;
+  }
   nav ul{
     display: flex;
     justify-content: right;
