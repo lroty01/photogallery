@@ -173,6 +173,9 @@ img{
 /* Media Querie Changes here */
 
 @media screen and (min-width: 485px){
+  h1{
+    text-align: center;
+  }
   #wrapper{
     padding: 0px;
     width: 80%;
