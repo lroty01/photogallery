@@ -187,6 +187,7 @@ figcaption{
 
 #Chile figcaption{
   position: relative;
+  bottom: 40px;
   color: white;
 }
 
