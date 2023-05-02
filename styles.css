@@ -196,12 +196,11 @@ footer{
     font-size: 1.5em;
   } 
   figure{
-    min-width: 300px;
-    width: 300px;
+    width: 100%;
   }
 }
 
-@media screen and (min-width: 880px){
+/* @media screen and (min-width: 880px){
   nav a{
     font-size: 1.5em;
   }  
@@ -227,7 +226,7 @@ footer{
     min-width: 300px;
     width: 350px;
   }
-}
+} */
 
 /* @media screen and (min-width: 1300px){
   nav ul{
