@@ -207,7 +207,7 @@ img{
 @media screen and (min-width: 880px){
   #wrapper{
     padding: 6px;
-    margin: 0;
+    margin: 10px auto;
     padding-left: 8px;
     padding-right: 36px;
   }
