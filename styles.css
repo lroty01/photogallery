@@ -185,10 +185,17 @@ figcaption{
   text-transform: uppercase;
 }
 
-#Chile figcaption{
+#Chile figcaption, #Hawaii figcaption, #MoabDesert figcaption{
   position: relative;
   bottom: 30px;
-  color: white;
+  color: #ffffff;
+  text-align: center;
+}
+
+#Italy figcaption{
+  position: relative;
+  bottom: 30px;
+  color: #000000;
   text-align: center;
 }
 
