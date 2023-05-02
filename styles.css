@@ -184,6 +184,7 @@ figure{
 figcaption{
   text-transform: uppercase;
   padding: 10px;
+  margin-bottom: -10px;
   text-align: center;
 }
 
