@@ -74,6 +74,7 @@ nav li{
 nav a:hover{
   background-color: #007d7b;
   border-radius:10px 0 0px 0px;
+  padding: 4px;
 }
 
 [href="#top"] {
@@ -247,6 +248,7 @@ img{
 @media screen and (min-width: 880px){
   h1{
     text-align: left;
+    padding-left: 2px;
   }
   #wrapper{
     padding: 0px;
