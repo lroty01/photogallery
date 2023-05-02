@@ -201,7 +201,7 @@ figcaption{
 
 #Guatemala figcaption, #Wyoming figcaption{
   position: relative;
-  top: 30px;
+  bottom: 250px;
   color: #ffffff;
   text-align: center;
 }
