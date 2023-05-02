@@ -188,35 +188,35 @@ figcaption{
 /* Figcaptions */
 #Chile figcaption, #Hawaii figcaption, #MoabDesert figcaption{
   position: relative;
-  bottom: 30px;
+   margin-bottom: 30px;
   color: #ffffff;
   text-align: center;
 }
 
 #Italy figcaption{
   position: relative;
-  bottom: 30px;
+  margin-bottom: 30px;
   color: #000000;
   text-align: center;
 }
 
 #Guatemala figcaption, #Wyoming figcaption{
   position: relative;
-  bottom: 280px;
+  margin-bottom: 280px;
   color: #ffffff;
   text-align: center;
 }
 
 #RockyMountains figcaption, #Switzerland figcaption, #UK figcaption, #USA figcaption{
   position: relative;
-  bottom: 280px;
+  margin-bottom: 280px;
   color: #000000;
   text-align: center;
 }
 
 #Iran figcaption, #Ireland figcaption{
   position: relative;
-  bottom: 645px;
+  margin-bottom: 645px;
   color: #000000;
   text-align: center;
 }
