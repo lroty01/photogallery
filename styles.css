@@ -100,15 +100,9 @@ nav a:hover{
 
 /* PHOTO GALLERY */
 
-#photos{
-
-}
-
-img{
-  width: 100%;
-}
 figure{
   min-width: 300px;
+  width: 100%
 }
 
 /* insert static y styles here */
@@ -211,6 +205,53 @@ footer{
     padding: 6px;
     font-size: 1.5em;
   } 
+}
+
+@media screen and (min-width: 880px){
+  nav a{
+    font-size: 1.5em;
+  }  
+  nav ul{
+    display: flex;
+    justify-content: center;
+  }
+  .photos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 2fr 2fr 1fr 1fr 1fr;
+    padding: 0px;
+    margin: 0 auto;
+  }
+  [href="#top"]{
+    border-radius:8px 0 0;
+    padding: 10px;
+    font-size: 2em;
+  } 
+  /* #chile{
+    grid-column: 1/2;
+    grid-row: 1/8;
+  }
+  #guatemala{
+    grid-column: 2/2;
+    grid-row: 1/8;
+  }
+  #hawaii{
+    grid-column: 1/2;
+    grid-row: 2/8;
+  }
+  #iran{
+    grid-column: 2/2;
+    grid-row-start: 2/8;
+    grid-row-end: 3/8;
+  }
+  #ireland{
+    grid-column: 1/2;
+    grid-row-start: 3/8;
+    grid-row-end: 4/8;
+  }
+  #italy{
+
+  } */
 }
 
 /* @media screen and (min-width: 1300px){
