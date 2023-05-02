@@ -186,7 +186,7 @@ footer{
     padding: 0;
     margin: 0 auto;
     min-width: 400px;
-    place-items: center;
+    justify-content: center;
   }
   [href="#top"]{
     border-radius:5px 0 0;
