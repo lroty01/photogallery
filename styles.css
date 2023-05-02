@@ -209,6 +209,9 @@ img{
 }
 
 @media screen and (min-width: 880px){
+  h1{
+    text-align: left;
+  }
   #wrapper{
     padding: 6px;
     margin: 10px auto;
