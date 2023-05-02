@@ -169,8 +169,15 @@ footer{
   padding-top: 50px;
 }
 
+/* FIGURES & IMAGES */
+
 img{
   width: 100%;
+}
+
+figure{
+  margin: 0px;
+  padding: 0px;
 }
 
 /* Media Querie Changes here */
@@ -290,11 +297,6 @@ img{
       padding: 12px;
       margin-top: 4px;
       margin-bottom: 8px;
-    }
-
-    figure{
-      margin: 0px;
-      padding: 0px;
     }
 }
 
