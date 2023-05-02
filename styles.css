@@ -186,35 +186,35 @@ figcaption{
 }
 
 /* Figcaptions */
-/* #Chile figcaption, #Hawaii figcaption, #MoabDesert figcaption{
-  position: absolute;
+#Chile figcaption, #Hawaii figcaption, #MoabDesert figcaption{
   color: #ffffff;
   text-align: center;
+  bottom: 30px;
 }
 
 #Italy figcaption{
-  position: absolute;
   color: #000000;
   text-align: center;
+  bottom: 30px;
 }
 
 #Guatemala figcaption, #Wyoming figcaption{
-  position: absolute;
   color: #ffffff;
   text-align: center;
+  bottom: 280px;
 }
 
 #RockyMountains figcaption, #Switzerland figcaption, #UK figcaption, #USA figcaption{
-  position: absolute;
   color: #000000;
   text-align: center;
+  bottom: 280px;
 }
 
 #Iran figcaption, #Ireland figcaption{
-  position: absolute;
   color: #000000;
   text-align: center;
-} */
+  bottom: 650px;
+}
 
 
 /* Media Querie Changes here */
