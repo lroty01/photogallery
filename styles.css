@@ -223,6 +223,8 @@ img{
   figure{
     min-width: 300px;
     width: 350px;
+    padding: 0px;
+    margin: 0px;
   }
 }
 
